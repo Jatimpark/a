@@ -17,7 +17,7 @@ echo -e " $BICyan│${BIGreen}[${BIWhite}5${BIGreen}]${NC}  • Restart All Serv
 echo -e " $BICyan│${BIGreen}[${BIWhite}6${BIGreen}]${NC}  • Set Auto Reboot"
 echo -e " $BICyan│${BIGreen}[${BIWhite}7${BIGreen}]${NC}  • Set Jam Auto Reboot"
 echo -e " $BICyan│${BIGreen}[${BIWhite}8${BIGreen}]${NC}  • Reboot Vps"
-echo -e " $BICyan│${BIGreen}[${BIWhite}9${BIGreen}]${NC} • Speedtest"
+echo -e " $BICyan│${BIGreen}[${BIWhite}9${BIGreen}]${NC}  • Speedtest"
 echo -e " $BICyan│${BIGreen}[${BIWhite}10${BIGreen}]${NC} • Upgrade Versi New Xray"
 #echo -e " $BICyan│${BIGreen}[${BIWhite}12${BIGreen}]${NC} • Clear Data"
 echo -e " $BICyan│${BIGreen}[${BIWhite}0${BIGreen}]${NC}  • Balik Ke Menu"
