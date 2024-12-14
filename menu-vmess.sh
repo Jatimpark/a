@@ -90,7 +90,7 @@ grpc=`cat<<EOF
       "net": "grpc",
       "path": "vmess-grpc",
       "type": "none",
-      "host": "bug.com",
+      "host": "${domain}",
       "tls": "tls"   
 }
 EOF`
@@ -190,7 +190,7 @@ grpc=`cat<<EOF
       "net": "grpc",
       "path": "vmess-grpc",
       "type": "none",
-      "host": "bug.com",
+      "host": "${domain}",
       "tls": "tls"
 }
 EOF`
@@ -413,7 +413,7 @@ grpc=`cat<<EOF
       "net": "grpc",
       "path": "vmess-grpc",
       "type": "none",
-      "host": "bug.com",
+      "host": "${domain}",
       "tls": "tls"
 }
 EOF`
