@@ -91,7 +91,7 @@ grpc=`cat<<EOF
       "path": "vmess-grpc",
       "type": "none",
       "host": "bug.com",
-      "tls": "tls"
+      "tls": "tls"   
 }
 EOF`
 vmess_base641=$( base64 -w 0 <<< $vmess_json1)
